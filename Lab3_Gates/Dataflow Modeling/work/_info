@@ -1,0 +1,184 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling
+vAND_GATE
+Z0 !s110 1723722342
+!i10b 1
+!s100 Tol6FbMzL?9dL@XYbeVef3
+I10ENzfL_6oFgDOZX5izdT1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Dataflow Modeling
+w1723722305
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\AND_GATE.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\AND_GATE.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1723722341.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\AND_GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\AND_GATE.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@n@d_@g@a@t@e
+vEXNOR_GATE
+R0
+!i10b 1
+!s100 E[KmF@7Dgfj^FJ`?:6[1]2
+IPak4;E4aFGO@5Skn2TF6k3
+R1
+R2
+w1723721856
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\EXNOR_GATE.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\EXNOR_GATE.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z6 !s108 1723722342.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\EXNOR_GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\EXNOR_GATE.v|
+!i113 1
+R4
+R5
+n@e@x@n@o@r_@g@a@t@e
+vEXOR_GATE
+Z7 !s110 1723722566
+!i10b 1
+!s100 o@g3KEKbVj2T]Q`N>6C302
+IbX2RjjQR:NDoh1P_fLN;?1
+R1
+R2
+w1723722296
+8EXOR_GATE.v
+FEXOR_GATE.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1723722566.000000
+!s107 EXOR_GATE.v|
+!s90 -reportprogress|300|EXOR_GATE.v|
+!i113 1
+R5
+n@e@x@o@r_@g@a@t@e
+vNAND_GATE
+R0
+!i10b 1
+!s100 IW3ZSWMDg5dJ_0i_JhE^N2
+Ij`5=il00]P3lK?V:4:_n_1
+R1
+R2
+w1723721959
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NAND_GATE.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NAND_GATE.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NAND_GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NAND_GATE.v|
+!i113 1
+R4
+R5
+n@n@a@n@d_@g@a@t@e
+vNOR_GATE
+R0
+!i10b 1
+!s100 @gzTI^V^1ME:Aeik2WL=30
+I;D5:MJ:8@9VA5GOEBl3C?0
+R1
+R2
+w1723722011
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOR_GATE.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOR_GATE.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOR_GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOR_GATE.v|
+!i113 1
+R4
+R5
+n@n@o@r_@g@a@t@e
+vNOT_GATE
+R0
+!i10b 1
+!s100 Vb7DO?JoNhT5T`k;bO4Y50
+I=onQHc=z9R<hE]Bc@00zD3
+R1
+R2
+w1723722270
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOT_GATE.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOT_GATE.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOT_GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\NOT_GATE.v|
+!i113 1
+R4
+R5
+n@n@o@t_@g@a@t@e
+vOR_GATE
+R0
+!i10b 1
+!s100 ?SA@mWI1`Fm50:mMSZMOL2
+I@e?^`WOb_0@aIBmhiE>Rz2
+R1
+R2
+w1723722116
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\OR_GATE.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\OR_GATE.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\OR_GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Dataflow Modeling\OR_GATE.v|
+!i113 1
+R4
+R5
+n@o@r_@g@a@t@e
+vTestbench
+R7
+!i10b 1
+!s100 U1FYb>5M]OWG7KbiAoH3@0
+Ill6EBL]K9RnbWM79iZ7^a0
+R1
+R2
+w1723722563
+8Testbench.v
+FTestbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 Testbench.v|
+!s90 -reportprogress|300|Testbench.v|
+!i113 1
+R5
+n@testbench

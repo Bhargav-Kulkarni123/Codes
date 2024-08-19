@@ -1,0 +1,52 @@
+C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder_BM
+
+Top level modules:
+	FullAdder_BM
+
+} {} {}} C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HalfAdder_GM
+
+Top level modules:
+	HalfAdder_GM
+
+} {} {}} C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM_tb.v {2 {vlog -work work -stats=none C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder_BM_tb
+** Warning: C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM_tb.v(28): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	FullAdder_BM_tb
+
+} {} {}} C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder_HA
+
+Top level modules:
+	FullAdder_HA
+
+} {} {}} C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder_DM
+
+Top level modules:
+	FullAdder_DM
+
+} {} {}} C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA_tb.v {1 {vlog -work work -stats=none C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder_HA_tb
+
+Top level modules:
+	FullAdder_HA_tb
+
+} {} {}} C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM_tb.v {2 {vlog -work work -stats=none C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FullAdder_DM_tb
+** Warning: C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM_tb.v(25): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	FullAdder_DM_tb
+
+} {} {}}

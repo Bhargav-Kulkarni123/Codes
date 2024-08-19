@@ -1,0 +1,61 @@
+{C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/EXOR_GATE.v} {1 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\EXOR_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module EXOR_GATE
+
+Top level modules:
+	EXOR_GATE
+
+} {} {}} {C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/NOR_GATE.v} {2 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\NOR_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOR_GATE
+** Warning: C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\NOR_GATE.v(5): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	NOR_GATE
+
+} {} {}} {C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/AND_GATE.v} {2 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\AND_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_GATE
+** Warning: C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\AND_GATE.v(5): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	AND_GATE
+
+} {} {}} {C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/Testbench.v} {1 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\Testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} {C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/EXNOR_GATE.v} {2 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\EXNOR_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module EXNOR_GATE
+** Warning: C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\EXNOR_GATE.v(5): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	EXNOR_GATE
+
+} {} {}} {C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/NOT_GATE.v} {1 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\NOT_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOT_GATE
+
+Top level modules:
+	NOT_GATE
+
+} {} {}} {C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/OR_GATE.v} {1 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\OR_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_GATE
+
+Top level modules:
+	OR_GATE
+
+} {} {}} {C:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Gate Level Modeling/NAND_GATE.v} {2 {vlog -work work -stats=none {C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\NAND_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NAND_GATE
+** Warning: C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Gate Level Modeling\NAND_GATE.v(5): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	NAND_GATE
+
+} {} {}}

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Behavioral Level Modeling
+vBooleanExpression
+!s110 1723724885
+!i10b 1
+!s100 G;ReCo?mQJl8=R;G5He0@2
+IWnmAg42jDlCET9L5Ml4CH0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Expression
+w1723724878
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1723724885.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@boolean@expression
+vBooleanExpression_tb
+!s110 1723725102
+!i10b 1
+!s100 bcX;oAJ4jbgMSf@lmM`0c3
+IeH]Q^QO`AC=@OclDjzdYI3
+R0
+R1
+w1723725089
+8C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression_tb.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723725102.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab3_Gates\Expression\BooleanExpression_tb.v|
+!i113 1
+R3
+R4
+n@boolean@expression_tb
