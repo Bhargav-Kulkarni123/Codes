@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/work/23BEC1392/Gate_Level_Modeling
+vFullAdder_BM
+!s110 1723710034
+!i10b 1
+!s100 bMngA??[`gPlXzG3cMZ=i1
+IcM>;VBfzQmX>QYLD3gz<a1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/intelFPGA/18.1/work/23BEC1392
+w1723710019
+8C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM.v
+FC:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1723710034.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@full@adder_@b@m
+vFullAdder_BM_tb
+!s110 1723712278
+!i10b 1
+!s100 :gPmkmfF5iV2<ZIH8hCII1
+IH3EjHE4AHC>gWG@n80]9]3
+R0
+R1
+w1723712270
+8C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM_tb.v
+FC:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723712278.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/FullAdder_BM_tb.v|
+!i113 1
+R3
+R4
+n@full@adder_@b@m_tb
+vFullAdder_DM
+!s110 1723709487
+!i10b 1
+!s100 hz_Zm2SaDf@QE4g7]Cc]K0
+IOZ0kdg9U<`C:7Fl;KdLc=0
+R0
+R1
+w1723707344
+8C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM.v
+FC:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723709487.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM.v|
+!i113 1
+R3
+R4
+n@full@adder_@d@m
+vFullAdder_DM_tb
+!s110 1723709998
+!i10b 1
+!s100 hBn]nPDBUVZP3K__LzQ]b3
+I96cBfnno^Vz5MAhnJiQeB1
+R0
+R1
+w1723709943
+8C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM_tb.v
+FC:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723709998.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/FullAdder_DM_tb.v|
+!i113 1
+R3
+R4
+n@full@adder_@d@m_tb
+vFullAdder_HA
+!s110 1723713439
+!i10b 1
+!s100 O6GP[9oFD6B5_>znIEH<P2
+Ih<=ez>KNIE1[]RH026fI^3
+R0
+R1
+w1723713398
+8C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA.v
+FC:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723713439.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA.v|
+!i113 1
+R3
+R4
+n@full@adder_@h@a
+vFullAdder_HA_tb
+!s110 1723713872
+!i10b 1
+!s100 ;PeE`78im5ADVLo<JFfCd2
+I_Jo2:dBdzPWNG_iPF_LlD0
+R0
+R1
+w1723713867
+8C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA_tb.v
+FC:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723713872.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/FullAdder_HA_tb.v|
+!i113 1
+R3
+R4
+n@full@adder_@h@a_tb
+vHalfAdder_GM
+!s110 1723713077
+!i10b 1
+!s100 SGWULKUZ]<FiUMb1bl<?71
+I<880f=bh^`3NUE43G;l=e2
+R0
+R1
+w1723713048
+8C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM.v
+FC:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723713077.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM.v|
+!i113 1
+R3
+R4
+n@half@adder_@g@m
+vHalfAdder_GM_tb
+!s110 1723713083
+!i10b 1
+!s100 n1DNHO9jN0e8=>ffZ4AhQ0
+IJSafM4<`9>TGGX5hk1e?D1
+R0
+R1
+w1723713071
+8C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM_tb.v
+FC:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723713083.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/HalfAdder_GM_tb.v|
+!i113 1
+R3
+R4
+n@half@adder_@g@m_tb
