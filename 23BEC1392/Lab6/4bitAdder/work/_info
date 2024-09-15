@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/18.1/work/23BEC1392/Lab6/4bitAdder
+vAdder4bit
+Z1 !s110 1726415481
+!i10b 1
+!s100 PPK[>]dFf^;]nH7GNc[R91
+IcdHE4b?0Dg5gXeAVS>WNM0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1726414236
+Z4 8C:/intelFPGA/18.1/work/23BEC1392/Lab6/4bitAdder/Adder4bit.v
+Z5 FC:/intelFPGA/18.1/work/23BEC1392/Lab6/4bitAdder/Adder4bit.v
+L0 14
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1726415481.000000
+Z8 !s107 C:/intelFPGA/18.1/work/23BEC1392/Lab6/4bitAdder/Adder4bit.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/Lab6/4bitAdder/Adder4bit.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@adder4bit
+vAdder4bit_tb
+!s110 1726415790
+!i10b 1
+!s100 ^<ASkZo2EVJPF]IhfS4`73
+Id8PkGK^mW:0S[83>c4?;03
+R2
+R0
+w1726415758
+8C:\intelFPGA\18.1\work\23BEC1392\Lab6\4bitAdder\Adder4bit_tb.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab6\4bitAdder\Adder4bit_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1726415790.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab6\4bitAdder\Adder4bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab6\4bitAdder\Adder4bit_tb.v|
+!i113 1
+R10
+R11
+n@adder4bit_tb
+vfullAdder
+R1
+!i10b 1
+!s100 ?PZL9mK2FaOk9k6aze]5m2
+I2]DHHca9VJhR9`2j68_h@0
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nfull@adder
