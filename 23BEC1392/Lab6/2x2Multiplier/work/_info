@@ -9,23 +9,23 @@ z2
 cModel Technology
 Z0 dC:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier
 vhalfAdder
-Z1 !s110 1726417026
+Z1 !s110 1727012518
 !i10b 1
 !s100 >9<^9?0mWzHnBJn_jhMgU1
-Ii`M[4=4U[f`SPWTZ^=]ZJ1
+I`_T?BD>e6;V^WZ>T3mNjh3
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 R0
 Z3 w1726417022
-Z4 8C:\intelFPGA\18.1\work\23BEC1392\Lab6\2x2Multiplier\Multiplier2x2.v
-Z5 FC:\intelFPGA\18.1\work\23BEC1392\Lab6\2x2Multiplier\Multiplier2x2.v
+Z4 8C:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2.v
+Z5 FC:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2.v
 L0 1
 Z6 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z7 !s108 1726417026.000000
-Z8 !s107 C:\intelFPGA\18.1\work\23BEC1392\Lab6\2x2Multiplier\Multiplier2x2.v|
-Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab6\2x2Multiplier\Multiplier2x2.v|
+Z7 !s108 1727012518.000000
+Z8 !s107 C:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2.v|
 !i113 1
 Z10 o-work work
 Z11 tCvgOpt 0
@@ -34,7 +34,7 @@ vMultiplier2x2
 R1
 !i10b 1
 !s100 T<gCJWTd0Y8F>HhY=deH_0
-I:4JWFO8Z^hh6^j^Bof`<Z2
+ISaAU9YYnRccAEi]]FFkL70
 R2
 R0
 R3
@@ -52,3 +52,46 @@ R9
 R10
 R11
 n@multiplier2x2
+vMultiplier2x2_tb
+!s110 1727012714
+!i10b 1
+!s100 0?X9W?<m9GgL7136czBA72
+IeMeTVUOg8OJ6N3[TO5z7@0
+R2
+R0
+w1727012709
+Z12 8C:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2_tb.v
+Z13 FC:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1727012714.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2_tb.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2_tb.v|
+!i113 1
+R10
+R11
+n@multiplier2x2_tb
+vtest_multiplier_2x2
+!s110 1727012553
+!i10b 1
+!s100 69e?zGP;PTJCk1cfJSLF:2
+I<T5KeP7C:FQlRlGmdGKzR2
+R2
+R0
+w1727012128
+R12
+R13
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1727012553.000000
+!s107 C:/intelFPGA/18.1/work/23BEC1392/Lab6/2x2Multiplier/Multiplier2x2_tb.v|
+R14
+!i113 1
+R10
+R11
