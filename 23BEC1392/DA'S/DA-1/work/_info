@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/work/23BEC1392/Lab3_Gates/Expression
+vKF_EXP
+!s110 1723747730
+!i10b 1
+!s100 hKnbG9no<Mzih4EBWfg3d0
+I8WcTRm7lSmWdMO<C[zn8W3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/intelFPGA/18.1/work/23BEC1392/DA
+w1723747662
+8C:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP.v
+FC:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1723747730.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@k@f_@e@x@p
+vKF_EXP_tb
+!s110 1723747327
+!i10b 1
+!s100 enmK?G9LY`DQBmF;2EQbg0
+I9CGhC7F4Y>PA1_Q<MzQ0n1
+R0
+R1
+w1723747322
+8C:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP_tb.v
+FC:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1723747327.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\DA\KF_EXP_tb.v|
+!i113 1
+R3
+R4
+n@k@f_@e@x@p_tb

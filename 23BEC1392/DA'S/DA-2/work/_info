@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/18.1/work/23BEC1392/DA'S/DA-2
+vcounter_tff
+!s110 1728453724
+!i10b 1
+!s100 0I8>akGmI84a]Fe12`52[3
+I@8oL2jGhNEDhgUjCR0MnF3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1728453669
+8C:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\counter_tff.v
+FC:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\counter_tff.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1728453724.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\counter_tff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\counter_tff.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vcounter_tff_tb
+!s110 1728453986
+!i10b 1
+!s100 Zl34M[zOU0BofkXkahi^40
+Ii2mnz>a7TS^MWOoHzLj7M1
+R1
+R0
+w1728453421
+8count_tff_tb.v
+Fcount_tff_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1728453986.000000
+!s107 count_tff_tb.v|
+!s90 -reportprogress|300|count_tff_tb.v|
+!i113 1
+R4
+vt
+!s110 1728454046
+!i10b 1
+!s100 J2_El0bIbm^>F24lRcU9n1
+I_oYolPUz<PnfU`]eO4o=@0
+R1
+R0
+w1728453893
+8C:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\tff.v
+FC:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\tff.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1728454046.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\tff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\DA'S\DA-2\tff.v|
+!i113 1
+R3
+R4
