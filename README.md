@@ -1,6 +1,4 @@
-# Verilog Simulation Repository
-
-## My Name: Bhargav
+# Verilog Codes Simulation Repository
 
 ### Purpose of the Repository
 I created this repository to help those who are stuck with Verilog simulation. The codes provided here are the ones that I have worked on and for which I got the correct output during my simulations. 
@@ -8,8 +6,9 @@ I created this repository to help those who are stuck with Verilog simulation. T
 However, **some of the codes might have issues**, so I highly recommend running the simulation on your own system. If you encounter any bugs, please feel free to let me know, and I'll try my best to fix them.
 
 ### Important Notes
-- Not all the codes in this repository are written entirely by me. I used the help of **ChatGPT** to complete certain sections of the code.
-- The simulation printouts attached are based on the code provided in this repository. The outputs are generated where the output ports are mapped with **port mapping**, instead of mapping by name.
+- Not all the codes in this repository are written entirely by me. I used **ChatGPT** to complete certain sections of the code.
+- The simulation printouts attached are based on the code provided in this repository.
+- I have used port mapping instead of mapping by name while creating an instance of module.
 
 ### How You Can Help
 I'm sharing these codes to encourage you to try them out yourself. If you find that I might have missed something or if you have any suggestions for improvement, **please let me know**.
