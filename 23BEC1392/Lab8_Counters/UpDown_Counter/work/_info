@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/18.1/work/23BEC1392/Lab8_Counters/UpDown_Counter
+vtb_up_down_counter
+Z1 !s110 1729440745
+!i10b 1
+!s100 e0_N]i`6=;alfK;`9^FK12
+IGRiDYR@Akh3CblNG[n6c>2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1729440738
+8C:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\tb_up_down_counter.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\tb_up_down_counter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1729440745.000000
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\tb_up_down_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\tb_up_down_counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vup_down_counter
+R1
+!i10b 1
+!s100 j<Ygf>g`Fk`Eo2[gNQS^l2
+IRPG4]^b@AgWc5_QNbIXz@0
+R2
+R0
+w1729440722
+8C:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\up_down_counter.v
+FC:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\up_down_counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\up_down_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\23BEC1392\Lab8_Counters\UpDown_Counter\up_down_counter.v|
+!i113 1
+R5
+R6
